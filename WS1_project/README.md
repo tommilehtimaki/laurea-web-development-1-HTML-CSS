@@ -9,7 +9,7 @@ Suunnitellut toiminnot:
 3. poistaa listalta
 
 Rautalankamalli
-(image-1.png)
+![rautalankamalli](image-2.png)
 
 
 Verkkolinkit
