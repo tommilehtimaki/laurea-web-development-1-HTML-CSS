@@ -13,6 +13,9 @@ Rautalankamalli
 
 
 Verkkolinkit
+Linkki sovellukseen: https://tommilehtimaki.github.io/laurea-web-development-1-HTML-CSS/WS1_project/
+Linkki demovideoon: https://youtu.be/M4VgvQCH90A
+Linkki GitHub repositorioon: https://github.com/tommilehtimaki/laurea-web-development-1-HTML-CSS
 
 Tietoja sovelluksesta
 Tommin kauppalista on sovellus, jonka tarkoituksena on helpottaa ihmistä muistamaan asioita, joita ostaa kaupasta. Sovelluksen on tarkoitus olla helppokäyttöinen kaikille ja vaiheita on hyvin vähän. Tärkeimmät toiminnot ovat tuotteiden listaus, tuotteiden kuittaaminen ostetuksi sekä niiden poistaminen listalta.
