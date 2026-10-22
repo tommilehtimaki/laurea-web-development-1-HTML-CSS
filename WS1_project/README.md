@@ -78,4 +78,6 @@ Muut lähteet:
 
 Projektissa ei käytetty ulkopuolisia kuvia tai erillisiä verkkotutoriaaleja.
 
+Kauppalistasovellus julkaistaan GitHub Pagesissa.
+
 
